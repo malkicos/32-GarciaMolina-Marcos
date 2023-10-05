@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="lib/comados-vista.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/E:/Nucleo%20de%20cosas/Universidad/2º/POO/ProyectoPOO/G32-OrtegaPastor-Alberto/lib/comandos-vista-doc.zip!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
